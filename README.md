@@ -354,5 +354,5 @@ func _audiostream_to_wav_bytes(stream: AudioStreamWAV) -> PackedByteArray:
 
 ## Version
 
-Plugin v4.0 — compatible with OmniCore Game AI server v4.0+
+Plugin v0.1 — compatible with OmniCore Game AI server v0.1
 Requires Godot 4.0+ (tested on 4.5)
