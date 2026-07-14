@@ -1,6 +1,3 @@
-Here is your updated, fully combined multi-engine developer manual. It seamlessly merges your Godot documentation with the official Unity integration architecture, ensuring both workflows are organized side-by-side using professional markdown tooling.
-
----
 
 # OmniCore AI — Multi-Engine Developer Guide (Godot & Unity)
 
